@@ -1,0 +1,6 @@
+C:\Users\parko\source\repos\StaminaRebalance\StaminaRebalance\obj\Debug\net35\StaminaRebalance.csproj.AssemblyReference.cache
+C:\Users\parko\source\repos\StaminaRebalance\StaminaRebalance\obj\Debug\net35\MyPluginInfo.cs
+C:\Users\parko\source\repos\StaminaRebalance\StaminaRebalance\obj\Debug\net35\StaminaRebalance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parko\source\repos\StaminaRebalance\StaminaRebalance\obj\Debug\net35\StaminaRebalance.AssemblyInfoInputs.cache
+C:\Users\parko\source\repos\StaminaRebalance\StaminaRebalance\obj\Debug\net35\StaminaRebalance.AssemblyInfo.cs
+C:\Users\parko\source\repos\StaminaRebalance\StaminaRebalance\obj\Debug\net35\StaminaRebalance.csproj.CoreCompileInputs.cache

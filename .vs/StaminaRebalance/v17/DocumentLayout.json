@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parko\\source\\repos\\StaminaRebalance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B8A16-2B84-48D4-82A2-41C6146EC2F7}|StaminaRebalance\\StaminaRebalance.csproj|c:\\users\\parko\\source\\repos\\staminarebalance\\staminarebalance\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6B8A16-2B84-48D4-82A2-41C6146EC2F7}|StaminaRebalance\\StaminaRebalance.csproj|solutionrelative:staminarebalance\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6B8A16-2B84-48D4-82A2-41C6146EC2F7}|StaminaRebalance\\StaminaRebalance.csproj|c:\\users\\parko\\source\\repos\\staminarebalance\\staminarebalance\\staminarebalance.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E6B8A16-2B84-48D4-82A2-41C6146EC2F7}|StaminaRebalance\\StaminaRebalance.csproj|solutionrelative:staminarebalance\\staminarebalance.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaminaRebalance",
+              "DocumentMoniker": "C:\\Users\\parko\\source\\repos\\StaminaRebalance\\StaminaRebalance\\StaminaRebalance.csproj",
+              "RelativeDocumentMoniker": "StaminaRebalance\\StaminaRebalance.csproj",
+              "ToolTip": "C:\\Users\\parko\\source\\repos\\StaminaRebalance\\StaminaRebalance\\StaminaRebalance.csproj",
+              "RelativeToolTip": "StaminaRebalance\\StaminaRebalance.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T23:41:38.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\parko\\source\\repos\\StaminaRebalance\\StaminaRebalance\\Plugin.cs",
+              "RelativeDocumentMoniker": "StaminaRebalance\\Plugin.cs",
+              "ToolTip": "C:\\Users\\parko\\source\\repos\\StaminaRebalance\\StaminaRebalance\\Plugin.cs",
+              "RelativeToolTip": "StaminaRebalance\\Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T23:16:15.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
